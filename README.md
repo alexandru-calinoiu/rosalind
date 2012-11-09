@@ -1,4 +1,4 @@
-CS169-1x
+Rosalind
 ========
 
-https://www.edx.org/courses/BerkeleyX/CS169.1x
+http://rosalind.info/problems/as-graph/
